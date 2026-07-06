@@ -32,7 +32,7 @@
 <a id="news"></a>
 ## 🚀 News
 
-- `2026/07/06`: 🔥 We release our [technical report](assets/ACE-Brain-0.5.pdf).
+- `2026/07/06`: 🔥 We release our [technical report](assets/ACE-Brain-0.5.pdf) and [ckpt](https://huggingface.co/ACE-Brain/ACE-Brain-0.5-8B).
 
 <a id="introduction"></a>
 ## 🧠 Introduction

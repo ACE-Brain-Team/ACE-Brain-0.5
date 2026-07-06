@@ -2199,14 +2199,14 @@ a:focus {
 }
 
 .feature-icon {
-  width: 52px;
-  height: 52px;
+  width: 30px;
+  height: 30px;
   border-radius: var(--border-radius);
   background: var(--gradient-primary);
-  display: flex;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 1.25rem;
+  flex: 0 0 auto;
   box-shadow: 0 4px 14px rgba(59, 130, 246, 0.3);
   transition: var(--transition);
 }
@@ -2214,15 +2214,18 @@ a:focus {
 .feature-card:hover .feature-icon {
   background: var(--gradient-tech);
   box-shadow: 0 6px 20px rgba(59, 130, 246, 0.4);
-  transform: scale(1.08);
+  transform: translateY(-1px);
 }
 
 .feature-icon i {
-  font-size: 1.35rem;
+  font-size: 0.9rem;
   color: #ffffff;
 }
 
 .feature-title {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
   font-size: 1.05rem;
   font-weight: 700;
   color: var(--text-primary);

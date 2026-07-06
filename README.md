@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="500" alt="ACE-Brain logo" src="assets/logo.png">
+<br>
+
 # ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI
 
 <p align="center">

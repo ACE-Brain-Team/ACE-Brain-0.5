@@ -8,7 +8,7 @@
 <p align="center">
   <a href="assets/ACE-Brain-0.5.pdf"><img src="https://img.shields.io/badge/Technical_Report-PDF-red.svg" alt="Technical Report"></a>
   <a href="https://github.com/ACE-Brain-Team/ACE-Brain-0.5"><img src="https://img.shields.io/badge/Code-GitHub-blue.svg" alt="Code"></a>
-  <img src="https://img.shields.io/badge/Model-Coming_Soon-yellow.svg" alt="Model Coming Soon">
+  <a href="https://huggingface.co/ACE-Brain/ACE-Brain-0.5-8B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow" alt="Hugging Face Model"></a>
 </p>
 
 </div>

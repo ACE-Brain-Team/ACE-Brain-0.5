@@ -6,7 +6,7 @@
 # ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI
 
 <p align="center">
-  <a href="assets/ACE-Brain-0.5.pdf"><img src="https://img.shields.io/badge/Technical_Report-PDF-red.svg" alt="Technical Report"></a>
+  <a href="https://arxiv.org/pdf/2607.04426"><img src="https://img.shields.io/badge/Technical_Report-PDF-red.svg" alt="Technical Report"></a>
   <a href="https://github.com/ACE-Brain-Team/ACE-Brain-0.5"><img src="https://img.shields.io/badge/Code-GitHub-blue.svg" alt="Code"></a>
   <a href="https://huggingface.co/ACE-Brain/ACE-Brain-0.5-8B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow" alt="Hugging Face Model"></a>
 </p>
@@ -32,7 +32,7 @@
 <a id="news"></a>
 ## 🚀 News
 
-- `2026/07/06`: 🔥 We release our [technical report](assets/ACE-Brain-0.5.pdf) and [ckpt](https://huggingface.co/ACE-Brain/ACE-Brain-0.5-8B).
+- `2026/07/06`: 🔥 We release our [technical report](https://arxiv.org/abs/2607.04426) and [ckpt](https://huggingface.co/ACE-Brain/ACE-Brain-0.5-8B).
 
 <a id="introduction"></a>
 ## 🧠 Introduction
@@ -74,7 +74,19 @@ Overall, the results indicate that ACE-Brain-0.5 is a step toward a general embo
 <a id="citation"></a>
 ## 📖 Citation
 
-If you find ACE-Brain-0.5 useful for your research and applications, please consider citing the technical report. BibTeX will be added once the public citation metadata is finalized.
+If you find ACE-Brain-0.5 useful for your research and applications, please consider citing our technical report.
+
+```bibtex
+@misc{brainteam2026acebrain05unifiedembodiedfoundational,
+      title={ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI},
+      author={Brain Team and Ziyang Gong and Haoming Gu and Zehang Luo and Tianyi Zhang and Tao Tao and Yixiao Chi and Zhe Liu and Lingsi Zhu and Jingyuan Liu and Anke Tang and Songze Li and Yilun Kong and Ningjing Liu and Tianyu Zhu and Yunpeng Qing and Shuang Luo and Xiang Liu and Shi Fu and Dawei Nie and Sixiang Liu and Zhexi Wen and Feng Pan and Xiaofeng Wang and Zhi Hou and Chunxiao Liu and Xue Yang and Junchi Yan and Hengshuang Zhao and Dacheng Tao and Xiaogang Wang},
+      year={2026},
+      eprint={2607.04426},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2607.04426},
+}
+```
 
 <a id="star-history"></a>
 ## ⭐ Star History
